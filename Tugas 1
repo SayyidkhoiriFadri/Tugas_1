@@ -1,0 +1,39 @@
+Nama : Sayyidkhoiri Fadri
+Kelas : 5 MIP
+NIM : 062040832827
+
+Soal : 
+1. Apa itu git dan kegunaannya?
+Jawab :
+Group Inclusive Tour atau GIT adalah alat umum yang digunakan dalam proyek pengembangan perangkat lunak. Tak hanya itu, GIT juga salah satu alat yang harus dipahami oleh programmer karena banyak dan sering digunakan di mana-mana.  GIT adalah versi perangkat lunak yang digunakan untuk kontrol versi atau proyek perangkat lunak manajemen kode yang dibuat oleh Linus Torvalds.
+Awalnya, GIT digunakan untuk pengembangan kernel linux. Lalu, GIT berkembang menjadi sistem kontrol versi yang digunakan oleh pengembang untuk pengembangan perangkat lunak secara bersamaan.
+Tujuan dari utama GIT adalah mengelola versi kode sumber program dengan menentukan baris serta kode yang akan ditambahkan atau diganti. Oleh karena itu, Anda perlu mengetahui arti dan manfaat dari GIT untuk dapat menggunakan dan menggunakannya sesuai keinginan.
+
+2. Apa itu github dan kegunaannya?
+Jawab : 
+Github adalah situs web juga sebuah layanan cloud yang bisa membantu para pengguna untuk menyimpan,mengelola dan mengembangkan.Didalam github kita bisa mengupload file,membuat file yang mana filenya bisa kita kelola dengan version control system punya github.Kita tidak perlu instal github di laptop maupun di komputer.Jadi, github itu adalah sebuah layanan cloud untuk menjalankan dan mengelola project.Github di ibaratkan instagramnya para programmer,ini karena di dalam github kita bisa mendownload file ,meletakan file atau project kita disana dalam bentuk source code,kita bisa ubah file yang kita buat,dan tentunya dapat diakses oleh pengguna lainnya.
+Sebelum membahas lebih jauh tentang github,kita harus ketahui dulu tentang Version Control System (VCS) dan Git. Version Control System adalah yang memungkinkan pembuat kode mengubah perangkat lunak yang berotensi memperbaiki bug tanpa mempengaruhi perangkat lunak itu sendiri. Sebuah sistem yang menyimpan dan mengelola perubahan dari source code,yang mencatat semua perubahan yang dibuat ke file atau set data sehingga versi tertentu dapat disebut nanti jika diperlukan. Sistem memastikan bahwa semua anggota tim bekerja pada file versi terbaru, dan setiap orang dapat bekerja secara bersamaan pada proyek yang sama.Git adalah sebuah version control alat yang akan memungkinkan anda untuk melakukan semua jenis operasi untuk mengambil data dari server pusat atau push data ke dalamnya sedangkan
+GitHub adalah inti hosting platform untuk kontrol versi kolaborasi.github juga berintegrasi dengan layanan seperti amazon,Googel Cloud dan code climate,yang mana dapat menampung sintaks dari 200 bahasa pemograman yg tidak sama.situs pengembangan seperti github tentu ada diantaranya gitlab,BitBucket,SourceForge,GitKraken dan LaunchPad.fitur penting github ada 3 yaitu forking,full request,dan merging.forking sendiri yaitu membuat salinan kode yang mana dapat membuat kita berkesperimen tanpa hambatan tanpa mempengaruhi kode aslinya.
+
+3. Sebutkan masing – masing istilah yang ada di git dan jelaskan masing – masing dari istilah tersebut?
+a. Git
+Git sendiri adalah jantung atau inti dari GitHub. Git merupakan sistem pengontrol versi yang dikembangkan oleh seseorang yang juga menciptakan dan mengembangkan sistem operasi Linux yaitu Linus Torvalds.
+b. Hub
+Jika Git adalah jantungnya GitHub maka Hub adalah jiwanya. Hub sendiri merupakan jiwa GitHub karena fungsinya yang mengubah command line (baris perintah) menjadi jaringan sosial bagi para programmer.
+c. Repositori
+Repositori sendiri adalah deriktori penyimpanan file-file proyek. File-file tersebut bisa berupa file gambar, file kode, atau file audio, tapi biasanya dan kebanyakan berisi file kode. Letak Repositori sendiri ada di penyimpanan GitHub atau penyimpanan lokal komputer Anda.
+d. Forking Repositori
+Forking Repositori merupakan fitur yang singkatnya berguna untuk menyalin Repositori yang sudah ada ke Repositori baru, lalu menambahkan beberapa perubahan dan menjadikannya Repositori Anda.
+e. Branch
+Singkatnya Branch adalah salinan Repositori yang digunakan apabila memulai suatu pengembangan proyek secara terpisah. Branch ini memungkinkan kita melakukan suatu pengembangan secara terpisah tanpa menggangu Repositori atau Branch lain.
+f. Pull Request
+Singkatnya Pull Request merupakan perintah untuk mengirimkan informasi dari Branch ke Master Repositori bahwa Anda telah melakukan perubahan atau penambahan di Branch.
+
+4. Sebutkan layanan selain github?
+Jawab :
+1. Gitlab
+2. Bit ember
+3. Pohon Kacang
+4. Sumberforge
+5. Gitkraken
+
